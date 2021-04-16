@@ -4289,7 +4289,7 @@ content .pin0{
 		.banner.full {
 			padding: 0;
 			min-height: 88vh;
-			height: 88vh !important;
+			height: 100vh !important;
 		}
 
 		.banner.half {
