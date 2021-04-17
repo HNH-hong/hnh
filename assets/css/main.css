@@ -4642,6 +4642,10 @@ content .pin0{
 			#footer {
 				padding: 3rem 0 1rem 0 ;
 			}
+		#footer_logo{
+			opacity: .3;
+			width:0;
+		}
 
 		}
 
