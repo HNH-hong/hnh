@@ -4559,7 +4559,7 @@ content .pin0{
 
 @media screen and (max-width: 980px) {
 	#mouse{
-		display: none;
+		top:60vh;
 	}
 
 }
@@ -4567,7 +4567,7 @@ content .pin0{
 @media screen and (max-width: 736px) {
 
 	#mouse{
-		display: none;
+		top:80vh;
 	}
 
 }
