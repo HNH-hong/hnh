@@ -4544,7 +4544,7 @@ content .pin0{
 	border-radius: 1rem;
 	left:50%;top:93%;	
 	transform: translate(-50%,-50%);
-	z-index: 100;
+	z-index: 1000000;
 	padding-bottom: 2rem;
 }
 
@@ -4575,7 +4575,7 @@ content .pin0{
 @media screen and (max-width: 400px) {
 
 	#mouse{
-		top:70vh;
+		top:20vh;
 	}
 
 }
